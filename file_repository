@@ -1,10 +1,13 @@
 Creating a new folder here and adding this folder to the github same repostory
-Step 1: move back to the first folder "cd .."
-Step 2: use command "cd Folder_name"
-Step 3: use command "git init" it will give u the empty git repostory
-Step 4: use command "git add ." it will add all the new/mofdify file in the waiting stage
-Step 5: use command "git commit -m "Commit_message" " 
-Step 6: create a new repostory in github
-Step 7: use command "git remote add origin Copy_link_Repostory"
-Step 8: use command "git branch" it will give master instard main because
-Step 9: use command "git branch -m main" to change the master to main  
+1: move back to the first folder "cd .."
+2: use command "cd Folder_name"
+3: use command "git init" it will give u the empty git repostory
+4: use command "git add ." it will add all the new/mofdify file in the waiting stage
+5: use command "git commit -m "Commit_message" " 
+6: create a new repostory in github
+7: use command "git remote add origin Copy_link_Repostory"
+8: use command "git branch" it will give master instard main because
+9: use command "git branch -m main" to change the master to main  
+Add New branch  : main--> new_branchname
+10: use command "git branch -a" it will show how many branches are listed in the repostory
+11: use command "git checkout branch_name" it will switch to the branch_name
